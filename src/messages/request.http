@@ -11,4 +11,4 @@ content-type: application/json
 }
 
 ### get one
-GET http://localhost:3000/messages/110 
+GET http://localhost:3000/messages/1100 
