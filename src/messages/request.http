@@ -6,9 +6,9 @@ POST http://localhost:3000/messages  HTTP/1.1
 content-type: application/json
 
 {
-    "content": 435,
+    "content": "new content here",
     "time": "Wed, 21 Oct 2015 18:27:50 GMT"
 }
 
 ### get one
-GET http://localhost:3000/messages/123434 
+GET http://localhost:3000/messages/110 
